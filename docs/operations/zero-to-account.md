@@ -8,7 +8,7 @@
 
 后续用户反馈：网页注册过程中出现“Continue on the TikTok app”，并说明因安全原因需要在 App 继续。再尝试网页邮箱密码登录时，最新截图明确显示 Account doesn't exist。尚未确认此前是否实际完成第三方注册或邮箱验证；网页注册未完成是结合现有证据的推测，并非已查明的根因。下一步核对原注册方式，按页面指引转手机端继续；具体处理见下文。
 
-用户已完成 [美区 TikTok 主应用](https://apps.apple.com/us/app/tiktok-videos-shop-live/id835599320)下载。手机 Wi-Fi 与蜂窝网络均出现连接提示；电脑有代理/VPN，iPhone 是否有尚不确定。当前优先执行 [iPhone 网络提示排查](iphone-network-troubleshooting.md)，验证手机的实际连接条件。正式使用时手机和电脑登录同一个账号，无需分别创建。
+用户已完成 [美区 TikTok 主应用](https://apps.apple.com/us/app/tiktok-videos-shop-live/id835599320)下载。手机 Wi-Fi 与蜂窝网络均出现连接提示。最新补充：公司 VPN 使用新加坡出口，覆盖电脑与公司 Wi-Fi；电脑可以刷视频，但无法登录或完成注册；手机 App 未登录时也无法刷视频。尚待同一 Wi-Fi 下手机 Safari 的结果，不再把“手机没有单独 VPN”作为首要原因。当前执行 [iPhone 网络提示排查](iphone-network-troubleshooting.md)，区分内容访问与账号流程的阻碍。正式使用时手机和电脑登录同一个账号，无需分别创建。
 
 ## 1. 推荐的设备分工
 
