@@ -2,6 +2,8 @@
 
 状态：准备清单；未注册、未发布。核查日期：2026-10-21。
 
+尚未安装或注册时，先看 [从零开始：设备、安装、网络、注册与语言](zero-to-account.md)。
+
 本阶段考虑个人账号（Personal Account）。官方说明它适合一般用户及内容创作者，并提供创作者工具和分析能力；不需要为了开始创作先切换企业账号。[账号类型说明](https://support.tiktok.com/en/using-tiktok/growing-your-audience/switching-to-a-creator-or-business-account)
 
 ## 启动顺序

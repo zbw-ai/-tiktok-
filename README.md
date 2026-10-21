@@ -18,8 +18,9 @@
 2. [当前目标与阶段安排](docs/goals.md)
 3. [决策：先普通账号、后商业化](docs/decisions/001-content-first.md)
 4. [普通账号启动指南](docs/operations/account-start.md)
-5. [第一轮内容实验草案](experiments/001-content-pilot.md)
-6. [首轮市场与商业可行性调研](docs/research/2026-10-21-brazil-feasibility.md)
+5. [从零开始：设备、安装、网络、注册与语言](docs/operations/zero-to-account.md)
+6. [第一轮内容实验草案](experiments/001-content-pilot.md)
+7. [首轮市场与商业可行性调研](docs/research/2026-10-21-brazil-feasibility.md)
 
 ## 仓库结构
 
