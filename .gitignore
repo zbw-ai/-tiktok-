@@ -1,0 +1,31 @@
+# Credentials and machine-local settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+secrets/
+private/
+*.local.*
+.codex/
+.agents/
+
+# Local datasets and media (publish only reviewed, anonymized summaries)
+data/raw/
+data/private/
+assets/raw/
+assets/exports/
+
+# Runtime and editor artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.DS_Store
+*.log
+*.tmp
+*.swp
+.idea/
+.vscode/

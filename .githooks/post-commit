@@ -1,0 +1,10 @@
+#!/bin/sh
+# Each completed commit is pushed; sync.py suppresses this hook during its own commit.
+if [ "${TIKTOK_SYNC_SKIP_PUSH:-}" = "1" ]; then
+    exit 0
+fi
+repo_root=$(git rev-parse --show-toplevel) || exit 1
+if ! python3 "$repo_root/scripts/sync.py" --push-only; then
+    printf '%s\n' 'Commit saved locally; GitHub sync failed. Retry: python3 scripts/sync.py --push-only' >&2
+    exit 1
+fi
