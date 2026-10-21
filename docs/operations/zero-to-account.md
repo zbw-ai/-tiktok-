@@ -6,7 +6,7 @@
 
 最新截图中是 Chrome 内的 TikTok 网页，地址为 tiktok.com/en/，当前显示 Sign up for TikTok 窗口，提供 Use phone or email、Facebook、Google 和 Apple 四种入口。此页未见国家/地区选项。它证明已进入注册方式选择页，不能证明视频持续播放、手机端网络正常，或已获得任何地区的账号。英文界面、/en/ 路径和可见的 Shop 菜单也不能用于判断公网出口国家或带货资格。
 
-接下来建议点击 Use phone or email，再按实际页面进入 Email 注册。优先尝试本人长期掌握的邮箱，Google 和 Apple 也是可选方式。当前截图未见地区选项，不要求反复寻找；如后续流程显示地区则核对，若始终不显示，注册后检查账号设置并记录。当前不要求更改 IP 或商店地区。
+后续用户反馈：网页注册过程中出现“Continue on the TikTok app”，并说明因安全原因需要在 App 继续。当前尚未确认用户选择了哪种注册方式、是否完成邮箱验证、账号是否已创建。下一步按页面指引转到已下载的手机主应用，依据是否已创建账号选择登录或继续注册；具体处理见下文。当前不要求更改 IP、邮箱或商店地区。
 
 用户已完成 [美区 TikTok 主应用](https://apps.apple.com/us/app/tiktok-videos-shop-live/id835599320)下载，下一步确认 App 可打开。正式使用时手机和电脑登录同一个账号，无需分别创建。没有必要仅因未来面向巴西受众就立即把 Apple Account 改成巴西地区。
 
@@ -114,6 +114,23 @@ Apple 的隐藏邮箱会生成随机转发地址，其机制是保护个人邮�
 7. 注册后核对账号地区，并记录是否可见。官方当前帮助路径为 Profile → ☰ → Settings and privacy → Account → User Information → Account region；旧版本可能显示 Account information。网页通常在 Settings → Manage account → Account region。入口缺失时记录实际情况，不反复试改地区。[官方地区路径](https://www.tiktok.com/support/faq_detail?id=7543896418571033093)
 
 官方列出的地区变更条件可能包括：曾在目标国家/地区使用 TikTok、满足当地最低年龄、结清原地区奖励及使用新版 App；变更后也可能无法再次更改。不要预设“先随便注册，之后一键转巴西”。
+
+### 网页提示 Continue on the TikTok app
+
+用户在注册过程中提供的原文：
+
+> Continue on the TikTok app
+> For security purposes, continue on the TikTok app. Don’t have it installed? Scan this QR code to download the TikTok app.
+
+根据提示本身，当前流程要求转到官方手机 App 继续。它没有说明具体触发原因，也没有证明账号被封、QQ 邮箱被拒、IP 异常或地区资格问题。这里的依据是用户转述的提示，未复现其流程，也未确认转到 App 后一定成功。
+
+1. 用户已经下载主应用，直接打开即可；按原文，这里的二维码是为未安装者提供的下载入口。
+2. 若网页已明确显示注册成功或已创建账号，在 App 选择 Log in，使用原来的邮箱或第三方登录方式。
+3. 若明确尚未创建账号，在 App 选择 Sign up，沿用原本打算使用的注册方式，按提示完成真实资料与验证。
+4. 若不确定账号是否已创建，可先尝试原方式登录；只有明确提示账号不存在时再转注册。登录失败本身不等于账号不存在，收到过验证码也不等于注册成功。
+5. 不保证网页中的未完成步骤会自动迁移到 App，App 可能需要重新输入部分资料。若手机仍提示错误，记录错误原文及发生在生日、邮箱、验证码等哪个步骤，再作排查；不收集密码或验证码。
+
+下一次验证结果应是：手机端是否能打开、是否进入原账号或完成注册。尚未将此问题标记为解决。
 
 ## 7. 语言和权限设置
 
