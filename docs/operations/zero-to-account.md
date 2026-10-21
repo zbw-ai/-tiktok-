@@ -33,6 +33,21 @@ iPhone 可先从已核对的 [美区 TikTok 官方商店页面](https://apps.app
 
 初期选择普通 TikTok 主应用即可；TikTok Lite、TikTok Studio、Seller Center 是不同用途的入口，不是分别对应不同国家的“TikTok 账号”。
 
+### TikTok 与 TikTok Pro
+
+核查于 2026-10-21。用户使用美区 App Store；目前该商店确有官方 TikTok Pro - Events，开发者同样为 TikTok Ltd.。不要把它理解为普通 TikTok 的付费升级版或“达人专业版”。
+
+| 名称 | 定位 | 本项目选择 |
+|---|---|---|
+| TikTok - Videos, Shop & LIVE | 主应用，提供内容浏览、创作、互动及按资格开放的直播、购物等功能 | 作为主要运营入口 |
+| TikTok Pro - Events（美区） | 单独应用，侧重大型赛事、文化活动、粉丝社区和活动任务；官方于 2026-06-03 宣布美国试点 | 暂无使用必要，不因 Pro 名称预设额外创作权限或流量 |
+| TikTok Pro（欧洲部分市场） | 官方于 2025 年推出的应用，结合 Sunshine 公益计划；与美区 Events 的市场定位有区别 | 不是巴西内容运营的前置工具 |
+| Pro Account（旧教程） | 2019 年官方曾使用的账号功能名称，当时主要提供数据分析 | 历史账号功能概念，不等于现在独立的 Pro 应用 |
+
+两个美区应用的商店页面都标为免费下载、含 App 内购买。选主应用基于当前学习创作和面向巴西受众的目标，不代表已验证两个应用的所有功能差异、账号互通或巴西地区可用性。
+
+来源：[主应用商店页](https://apps.apple.com/us/app/tiktok-videos-shop-live/id835599320)、[Pro Events 商店页](https://apps.apple.com/us/app/tiktok-pro-events/id6741796873)、[美国 Events 官方发布](https://newsroom.tiktok.com/tiktok-pro-events?lang=en)、[欧洲 Pro 官方发布](https://newsroom.tiktok.com/introducing-tiktok-pro-and-sunshine-programme?lang=en-150)、[2019 年 Pro Account 说明](https://newsroom.tiktok.com/pro-accounts-offer-new-insights-to-avid-creators?lang=en)。
+
 ## 3. 六个容易混淆的概念
 
 | 概念 | 作用 | 本项目如何处理 |
