@@ -1,6 +1,6 @@
 # 从零开始：设备、安装、网络、注册与语言
 
-核查日期：2026-10-21。用户已确认有 iPhone、App Store 为美区，且已下载 TikTok 主应用；最新电脑截图显示邮箱密码登录返回 Account doesn't exist。本文是操作指南，不代表手机 App 可用、账号已创建、持续播放或巴西受众已验证。
+核查日期：2026-10-21。用户已确认有 iPhone、App Store 为美区，且已下载 TikTok 主应用；网页邮箱登录曾返回 Account doesn't exist，最新反馈为手机在注册/登录或验证码阶段显示“网络连接不稳定”。本文是操作指南，不代表手机 App 可用、账号已创建、持续播放或巴西受众已验证。
 
 ## 当前操作进度
 
@@ -8,7 +8,7 @@
 
 后续用户反馈：网页注册过程中出现“Continue on the TikTok app”，并说明因安全原因需要在 App 继续。再尝试网页邮箱密码登录时，最新截图明确显示 Account doesn't exist。尚未确认此前是否实际完成第三方注册或邮箱验证；网页注册未完成是结合现有证据的推测，并非已查明的根因。下一步核对原注册方式，按页面指引转手机端继续；具体处理见下文。
 
-用户已完成 [美区 TikTok 主应用](https://apps.apple.com/us/app/tiktok-videos-shop-live/id835599320)下载，下一步确认 App 可打开。正式使用时手机和电脑登录同一个账号，无需分别创建。没有必要仅因未来面向巴西受众就立即把 Apple Account 改成巴西地区。
+用户已完成 [美区 TikTok 主应用](https://apps.apple.com/us/app/tiktok-videos-shop-live/id835599320)下载。手机 Wi-Fi 与蜂窝网络均出现连接提示；电脑有代理/VPN，iPhone 是否有尚不确定。当前优先执行 [iPhone 网络提示排查](iphone-network-troubleshooting.md)，验证手机的实际连接条件。正式使用时手机和电脑登录同一个账号，无需分别创建。
 
 ## 1. 推荐的设备分工
 
